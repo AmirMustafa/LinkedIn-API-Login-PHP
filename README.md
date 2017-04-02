@@ -23,7 +23,7 @@ the [API docs][api-doc-authentication].
 
 ## LinkedIn Apps Creation
 
-To access LinkedIn API you need to create LinkedIn App and specify App ID(linkedinApiKey) & App Secret(linkedinApiSecret) at the time of call Facebook API. Follow the step-by-step guide to creating and configure a Facebook App from the App Dashboard.
+To access LinkedIn API you need to create LinkedIn App and specify App ID(linkedinApiKey) & App Secret(linkedinApiSecret) at the time of call LinkedIn API. Follow the step-by-step guide to creating and configure a LinkedIn App from the App Dashboard.
 
 Log in with your LinkedIn account and go to the [LinkedIn App Dashboard](https://www.linkedin.com/secure/developer).
 Create a new LinkedIn apps with your desired name (like Amir).
